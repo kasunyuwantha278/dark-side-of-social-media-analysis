@@ -33,5 +33,4 @@ This university group project analyzed the impact of social media usage on user 
 ## Skills
 
 Statistical Analysis, Data Analysis, Data Visualization, Minitab, Microsoft Excel, Research, Team Collaboration
-# dark-side-of-social-media-analysis
-Statistical Data Analysis project conducted at the University of Colombo.
+
